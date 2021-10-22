@@ -8,7 +8,7 @@
 
 <br/>
 
-## Get contact with id
+## Get contact by id
 
 ![Screenshot the results command getById](/images/getById.jpg)
 
@@ -20,6 +20,12 @@
 
 <br/>
 
-## Remove contact
+## Update contact by id
+
+![Screenshot the results command updateById](/images/updateById.jpg)
+
+<br/>
+
+## Remove contact by id
 
 ![Screenshot the results command removeById](/images/removeById.jpg)

@@ -8,4 +8,5 @@ module.exports = {
   getById,
   addContact,
   removeById,
+  updateById,
 };
